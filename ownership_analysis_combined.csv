@@ -1,0 +1,4 @@
+ownership_type,stability_score,default_rate,risk_score
+RENT,60.0,5.0,0.44
+MORTGAGE,75.0,3.5,0.29
+OWN,85.0,2.0,0.17

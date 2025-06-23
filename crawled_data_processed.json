@@ -1,0 +1,16 @@
+{
+  "loan_intent_risk": {
+    "EDUCATION": 0.33524,
+    "MEDICAL": 0.3197,
+    "VENTURE": 0.3712580000000001,
+    "HOMEIMPROVEMENT": 0.256875385,
+    "DEBTCONSOLIDATION": 0.34209,
+    "PERSONAL": 0.28788
+  },
+  "home_ownership_risk": {
+    "RENT": 0.44,
+    "MORTGAGE": 0.29,
+    "OWN": 0.17
+  },
+  "timestamp": "2025-06-22T15:29:46.132792"
+}

@@ -1,0 +1,85 @@
+INFO:root:Collected loan intent data at 2025-06-22 14:56:46.280674
+INFO:root:Collected home ownership data at 2025-06-22 14:56:46.280873
+2025-06-22 15:10:25,166 - INFO - ====== WebDriver manager ======
+2025-06-22 15:10:25,935 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-22 15:10:26,099 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-22 15:10:26,140 - INFO - There is no [win64] chromedriver "137.0.7151.119" for browser google-chrome "137.0.7151" in cache
+2025-06-22 15:10:26,140 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-22 15:10:26,444 - INFO - WebDriver version 137.0.7151.119 selected
+2025-06-22 15:10:26,448 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/win32/chromedriver-win32.zip
+2025-06-22 15:10:26,448 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/win32/chromedriver-win32.zip
+2025-06-22 15:10:26,536 - INFO - Driver downloading response is 200
+2025-06-22 15:10:29,230 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-22 15:10:31,172 - INFO - Driver has been saved in cache [C:\Users\leemi\.wdm\drivers\chromedriver\win64\137.0.7151.119]
+2025-06-22 15:10:32,475 - INFO - Read original dataset from credit-risk-dataset/credit_risk_dataset.csv
+2025-06-22 15:10:56,182 - INFO - ====== WebDriver manager ======
+2025-06-22 15:10:56,887 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-22 15:10:56,949 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-22 15:10:57,013 - INFO - Driver [C:\Users\leemi\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-22 15:10:58,116 - INFO - Read original dataset from credit-risk-dataset/credit_risk_dataset.csv
+2025-06-22 15:11:03,698 - INFO - Data saved to crawled_data_raw.json
+2025-06-22 15:11:03,698 - ERROR - Error calculating loan risk: unsupported operand type(s) for /: 'NoneType' and 'float'
+2025-06-22 15:11:03,698 - ERROR - Error calculating loan risk: unsupported operand type(s) for /: 'NoneType' and 'float'
+2025-06-22 15:11:03,699 - INFO - Data saved to crawled_data_processed.json
+2025-06-22 15:11:03,843 - INFO - Enhanced dataset saved to credit-risk-dataset/enhanced_credit_risk_dataset.csv
+2025-06-22 15:11:06,005 - INFO - Dataset enhancement completed successfully
+2025-06-22 15:21:47,518 - INFO - ====== WebDriver manager ======
+2025-06-22 15:21:48,299 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-22 15:21:48,358 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-22 15:21:48,473 - INFO - Driver [C:\Users\leemi\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-22 15:21:49,572 - INFO - Crawling https://studentaid.gov/understand-aid/types/loans/interest-rates for EDUCATION
+2025-06-22 15:21:49,744 - INFO - Crawling https://www.salliemae.com/student-loans/smart-option-student-loan/ for EDUCATION
+2025-06-22 15:21:50,169 - INFO - Crawling https://www.discover.com/student-loans/ for EDUCATION
+2025-06-22 15:21:52,052 - INFO - Crawling https://www.patientadvocate.org/explore-our-resources/preventing-medical-debt/ for MEDICAL
+2025-06-22 15:21:52,260 - ERROR - Error fetching https://www.patientadvocate.org/explore-our-resources/preventing-medical-debt/: 404 Client Error: Not Found for url: https://www.patientadvocate.org/explore-our-resources/preventing-medical-debt/
+2025-06-22 15:21:52,260 - INFO - Crawling https://www.creditkarma.com/personal-loans/medical-loans for MEDICAL
+2025-06-22 15:21:53,616 - INFO - Crawling https://www.sba.gov/funding-programs/loans for VENTURE
+2025-06-22 15:21:53,917 - INFO - Crawling https://www.kabbage.com/business-loans/ for VENTURE
+2025-06-22 15:21:57,265 - INFO - Crawling https://www.bankrate.com/loans/home-improvement/ for HOMEIMPROVEMENT
+2025-06-22 15:22:01,367 - INFO - Crawling https://www.nerdwallet.com/best/loans/personal-loans/home-improvement-loans for HOMEIMPROVEMENT
+2025-06-22 15:22:11,284 - INFO - Crawling https://www.nerdwallet.com/best/loans/personal-loans/debt-consolidation-loans for DEBTCONSOLIDATION
+2025-06-22 15:22:15,247 - INFO - Crawling https://www.bankrate.com/loans/personal-loans/debt-consolidation-loans/ for DEBTCONSOLIDATION
+2025-06-22 15:22:26,409 - INFO - Crawling https://www.nerdwallet.com/best/loans/personal-loans for PERSONAL
+2025-06-22 15:22:31,595 - INFO - Crawling https://www.bankrate.com/loans/personal-loans/ for PERSONAL
+2025-06-22 15:22:47,269 - INFO - Crawling https://www.census.gov/housing/hvs/index.html for RENT
+2025-06-22 15:22:57,379 - ERROR - Error fetching https://www.census.gov/housing/hvs/index.html: HTTPSConnectionPool(host='www.census.gov', port=443): Read timed out. (read timeout=10)
+2025-06-22 15:22:57,380 - INFO - Crawling https://www.apartmentlist.com/research/category/data-rent-estimates for RENT
+2025-06-22 15:22:58,566 - INFO - Crawling https://www.freddiemac.com/pmms for MORTGAGE
+2025-06-22 15:22:58,839 - INFO - Crawling https://www.bankrate.com/mortgages/ for MORTGAGE
+2025-06-22 15:23:00,226 - INFO - Crawling https://www.nar.realtor/research-and-statistics for OWN
+2025-06-22 15:23:06,385 - INFO - Crawling https://www.zillow.com/research/data/ for OWN
+2025-06-22 15:23:10,872 - INFO - Enhanced dataset saved to credit-risk-dataset/enhanced_credit_risk_dataset.csv
+2025-06-22 15:23:13,075 - INFO - Dataset enhancement completed successfully
+2025-06-22 15:24:36,068 - INFO - ====== WebDriver manager ======
+2025-06-22 15:24:36,933 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-22 15:24:37,010 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-22 15:24:37,063 - INFO - Driver [C:\Users\leemi\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-22 15:24:38,159 - INFO - Crawling https://www.nerdwallet.com/best/loans/student-loans/private-student-loans for EDUCATION
+2025-06-22 15:24:47,757 - INFO - Crawling https://www.bankrate.com/loans/student-loans/rates/ for EDUCATION
+2025-06-22 15:25:00,577 - INFO - Crawling https://www.credible.com/blog/statistics/student-loan-debt-statistics/ for EDUCATION
+2025-06-22 15:25:09,986 - INFO - Crawling https://www.bankrate.com/loans/personal-loans/medical-loans/ for MEDICAL
+2025-06-22 15:25:24,788 - INFO - Crawling https://www.nerdwallet.com/best/loans/personal-loans/medical-loans for MEDICAL
+2025-06-22 15:25:37,138 - INFO - Crawling https://www.lendingtree.com/personal/medical-loans/ for MEDICAL
+2025-06-22 15:25:49,892 - INFO - Crawling https://www.bankrate.com/loans/business-loans/rates/ for VENTURE
+2025-06-22 15:26:01,643 - INFO - Crawling https://www.nerdwallet.com/best/small-business/small-business-loans for VENTURE
+2025-06-22 15:26:11,600 - INFO - Crawling https://www.fundera.com/business-loans/guides/business-loan-statistics for VENTURE
+2025-06-22 15:26:21,993 - INFO - Crawling https://www.bankrate.com/loans/home-improvement/rates/ for HOMEIMPROVEMENT
+2025-06-22 15:26:34,266 - INFO - Crawling https://www.nerdwallet.com/best/loans/personal-loans/home-improvement-loans for HOMEIMPROVEMENT
+2025-06-22 15:26:44,950 - INFO - Crawling https://www.lendingtree.com/home/renovation/home-improvement-loan-rates/ for HOMEIMPROVEMENT
+2025-06-22 15:26:55,943 - INFO - Crawling https://www.bankrate.com/loans/personal-loans/debt-consolidation-loans/ for DEBTCONSOLIDATION
+2025-06-22 15:27:06,247 - INFO - Crawling https://www.nerdwallet.com/best/loans/personal-loans/debt-consolidation-loans for DEBTCONSOLIDATION
+2025-06-22 15:27:15,571 - INFO - Crawling https://www.lendingtree.com/personal/debt-consolidation-loans/ for DEBTCONSOLIDATION
+2025-06-22 15:27:27,983 - INFO - Crawling https://www.bankrate.com/loans/personal-loans/rates/ for PERSONAL
+2025-06-22 15:27:39,215 - INFO - Crawling https://www.nerdwallet.com/best/loans/personal-loans for PERSONAL
+2025-06-22 15:27:49,147 - INFO - Crawling https://www.lendingtree.com/personal-loans/ for PERSONAL
+2025-06-22 15:27:59,513 - INFO - Crawling https://www.bankrate.com/real-estate/rent-vs-buy-calculator/ for RENT
+2025-06-22 15:28:13,304 - INFO - Crawling https://www.nerdwallet.com/mortgages/rent-vs-buy-calculator for RENT
+2025-06-22 15:28:25,781 - INFO - Crawling https://www.lendingtree.com/home/mortgage/rent-vs-buy/ for RENT
+2025-06-22 15:28:37,662 - INFO - Crawling https://www.bankrate.com/mortgages/mortgage-rates/ for MORTGAGE
+2025-06-22 15:28:49,923 - INFO - Crawling https://www.nerdwallet.com/mortgages/mortgage-rates for MORTGAGE
+2025-06-22 15:28:59,485 - INFO - Crawling https://www.lendingtree.com/home/mortgage/rates/ for MORTGAGE
+2025-06-22 15:29:10,570 - INFO - Crawling https://www.bankrate.com/real-estate/housing-market/ for OWN
+2025-06-22 15:29:22,576 - INFO - Crawling https://www.nerdwallet.com/mortgages/how-much-house-can-i-afford for OWN
+2025-06-22 15:29:35,729 - INFO - Crawling https://www.lendingtree.com/home/mortgage/ for OWN
+2025-06-22 15:29:46,372 - INFO - Enhanced dataset saved to credit-risk-dataset/enhanced_credit_risk_dataset.csv
+2025-06-22 15:29:48,746 - INFO - Dataset enhancement completed successfully

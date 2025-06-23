@@ -1,0 +1,49 @@
+{
+  "loan_data": {
+    "EDUCATION": {
+      "default_rate": 10.1,
+      "avg_interest_rate": 14.22,
+      "avg_loan_amount": 1000.0
+    },
+    "MEDICAL": {
+      "default_rate": 15.2,
+      "avg_interest_rate": 0.0,
+      "avg_loan_amount": 25500.0
+    },
+    "VENTURE": {
+      "default_rate": 20.0,
+      "avg_interest_rate": 0.0,
+      "avg_loan_amount": 17086.0
+    },
+    "HOMEIMPROVEMENT": {
+      "default_rate": 8.5,
+      "avg_interest_rate": 9.99,
+      "avg_loan_amount": 331.795
+    },
+    "DEBTCONSOLIDATION": {
+      "default_rate": 12.0,
+      "avg_interest_rate": 12.495000000000001,
+      "avg_loan_amount": 50.0
+    },
+    "PERSONAL": {
+      "default_rate": 10.5,
+      "avg_interest_rate": 9.49,
+      "avg_loan_amount": 2000.0
+    }
+  },
+  "ownership_data": {
+    "RENT": {
+      "stability_score": 60.0,
+      "default_rate": 5.0
+    },
+    "MORTGAGE": {
+      "stability_score": 75.0,
+      "default_rate": 3.5
+    },
+    "OWN": {
+      "stability_score": 85.0,
+      "default_rate": 2.0
+    }
+  },
+  "timestamp": "2025-06-22T15:29:46.131400"
+}
