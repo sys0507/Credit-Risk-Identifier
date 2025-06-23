@@ -1,0 +1,18 @@
+2025-06-23 19:55:16,703 - INFO - ====== WebDriver manager ======
+2025-06-23 19:55:17,619 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-23 19:55:17,756 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-23 19:55:17,816 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-23 19:55:17,997 - INFO - WebDriver version 137.0.7151.119 selected
+2025-06-23 19:55:18,000 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/win32/chromedriver-win32.zip
+2025-06-23 19:55:18,000 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/win32/chromedriver-win32.zip
+2025-06-23 19:55:18,095 - INFO - Driver downloading response is 200
+2025-06-23 19:55:21,799 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-23 19:55:22,282 - INFO - Driver has been saved in cache [C:\Users\leemi\.wdm\drivers\chromedriver\win64\137.0.7151.119]
+2025-06-23 19:55:23,456 - INFO - Crawling https://www.bls.gov/news.release/tenure.nr0.htm
+2025-06-23 19:55:26,443 - INFO - Crawling https://www.bls.gov/news.release/jolts.t04.htm
+2025-06-23 19:55:30,650 - INFO - Crawling https://www.linkedin.com/business/talent/blog/talent-strategy/employee-tenure-trends
+2025-06-23 19:55:35,109 - INFO - Crawling https://www.linkedin.com/pulse/employee-tenure-industry-2023-data-insights-trends
+2025-06-23 19:55:44,104 - INFO - Crawling https://www.glassdoor.com/research/employee-tenure-trends/
+2025-06-23 19:55:52,438 - INFO - Crawling https://www.glassdoor.com/research/job-market-trends/
+2025-06-23 19:55:59,824 - INFO - Enhanced dataset saved to credit-risk-dataset/employment_enhanced_dataset.csv
+2025-06-23 19:56:02,112 - INFO - Dataset enhancement completed successfully
