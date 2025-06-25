@@ -1,0 +1,205 @@
+{
+  "loan_data": {
+    "2025-06-24T21:23:32.701398": {
+      "EDUCATION": {
+        "default_rate": 10.1,
+        "default_rate_confidence": 0.0,
+        "avg_interest_rate": 16.27853864734299,
+        "interest_rate_confidence": 1.0,
+        "avg_loan_amount": 10203.543085512783,
+        "loan_amount_confidence": 1.0
+      },
+      "MEDICAL": {
+        "default_rate": 15.2,
+        "default_rate_confidence": 0.0,
+        "avg_interest_rate": 12.0,
+        "interest_rate_confidence": 0.0,
+        "avg_loan_amount": 15000,
+        "loan_amount_confidence": 0.0
+      },
+      "VENTURE": {
+        "default_rate": 20.0,
+        "default_rate_confidence": 0.0,
+        "avg_interest_rate": 15.0,
+        "interest_rate_confidence": 0.0,
+        "avg_loan_amount": 50000,
+        "loan_amount_confidence": 0.0
+      },
+      "HOMEIMPROVEMENT": {
+        "default_rate": 8.5,
+        "default_rate_confidence": 0.0,
+        "avg_interest_rate": 9.0,
+        "interest_rate_confidence": 0.0,
+        "avg_loan_amount": 25000,
+        "loan_amount_confidence": 0.0
+      },
+      "DEBTCONSOLIDATION": {
+        "default_rate": 12.0,
+        "default_rate_confidence": 0.0,
+        "avg_interest_rate": 18.733333333333334,
+        "interest_rate_confidence": 1.0,
+        "avg_loan_amount": 5652.757834757835,
+        "loan_amount_confidence": 1.0
+      },
+      "PERSONAL": {
+        "default_rate": 10.5,
+        "default_rate_confidence": 0.0,
+        "avg_interest_rate": 4.610000000000001,
+        "interest_rate_confidence": 1.0,
+        "avg_loan_amount": 12160.744579354123,
+        "loan_amount_confidence": 1.0
+      }
+    },
+    "2025-06-24T21:44:43.220096": {
+      "EDUCATION": {
+        "default_rate": 10.1,
+        "default_rate_confidence": 0.0,
+        "avg_interest_rate": 13.371444897959181,
+        "interest_rate_confidence": 1.0,
+        "avg_loan_amount": 9924.670280012771,
+        "loan_amount_confidence": 1.0
+      },
+      "MEDICAL": {
+        "default_rate": 15.2,
+        "default_rate_confidence": 0.0,
+        "avg_interest_rate": 12.0,
+        "interest_rate_confidence": 0.0,
+        "avg_loan_amount": 15000,
+        "loan_amount_confidence": 0.0
+      },
+      "VENTURE": {
+        "default_rate": 20.0,
+        "default_rate_confidence": 0.0,
+        "avg_interest_rate": 15.0,
+        "interest_rate_confidence": 0.0,
+        "avg_loan_amount": 50000,
+        "loan_amount_confidence": 0.0
+      },
+      "HOMEIMPROVEMENT": {
+        "default_rate": 8.5,
+        "default_rate_confidence": 0.0,
+        "avg_interest_rate": 9.0,
+        "interest_rate_confidence": 0.0,
+        "avg_loan_amount": 25000,
+        "loan_amount_confidence": 0.0
+      },
+      "DEBTCONSOLIDATION": {
+        "default_rate": 12.0,
+        "default_rate_confidence": 0.0,
+        "avg_interest_rate": 11.0,
+        "interest_rate_confidence": 0.0,
+        "avg_loan_amount": 26829.457364341084,
+        "loan_amount_confidence": 1.0
+      },
+      "PERSONAL": {
+        "default_rate": 10.5,
+        "default_rate_confidence": 0.0,
+        "avg_interest_rate": 4.610000000000001,
+        "interest_rate_confidence": 1.0,
+        "avg_loan_amount": 12160.744579354123,
+        "loan_amount_confidence": 1.0
+      }
+    },
+    "2025-06-25T19:40:50.973078": {
+      "EDUCATION": {
+        "default_rate": 10.1,
+        "default_rate_confidence": 0.0,
+        "avg_interest_rate": 16.27853864734299,
+        "interest_rate_confidence": 1.0,
+        "avg_loan_amount": 10203.543085512783,
+        "loan_amount_confidence": 1.0
+      },
+      "MEDICAL": {
+        "default_rate": 15.2,
+        "default_rate_confidence": 0.0,
+        "avg_interest_rate": 12.0,
+        "interest_rate_confidence": 0.0,
+        "avg_loan_amount": 15000,
+        "loan_amount_confidence": 0.0
+      },
+      "VENTURE": {
+        "default_rate": 20.0,
+        "default_rate_confidence": 0.0,
+        "avg_interest_rate": 15.0,
+        "interest_rate_confidence": 0.0,
+        "avg_loan_amount": 50000,
+        "loan_amount_confidence": 0.0
+      },
+      "HOMEIMPROVEMENT": {
+        "default_rate": 8.5,
+        "default_rate_confidence": 0.0,
+        "avg_interest_rate": 9.0,
+        "interest_rate_confidence": 0.0,
+        "avg_loan_amount": 25000,
+        "loan_amount_confidence": 0.0
+      },
+      "DEBTCONSOLIDATION": {
+        "default_rate": 12.0,
+        "default_rate_confidence": 0.0,
+        "avg_interest_rate": 11.0,
+        "interest_rate_confidence": 0.0,
+        "avg_loan_amount": 28248.863940122967,
+        "loan_amount_confidence": 1.0
+      },
+      "PERSONAL": {
+        "default_rate": 10.5,
+        "default_rate_confidence": 0.0,
+        "avg_interest_rate": 4.610000000000001,
+        "interest_rate_confidence": 1.0,
+        "avg_loan_amount": 12160.744579354123,
+        "loan_amount_confidence": 1.0
+      }
+    },
+    "2025-06-25T19:44:07.702967": {
+      "EDUCATION": {
+        "default_rate": 10.1,
+        "default_rate_confidence": 0.0,
+        "avg_interest_rate": 16.732424242424244,
+        "interest_rate_confidence": 1.0,
+        "avg_loan_amount": 12313.086285714286,
+        "loan_amount_confidence": 1.0
+      },
+      "MEDICAL": {
+        "default_rate": 15.2,
+        "default_rate_confidence": 0.0,
+        "avg_interest_rate": 12.0,
+        "interest_rate_confidence": 0.0,
+        "avg_loan_amount": 15000,
+        "loan_amount_confidence": 0.0
+      },
+      "VENTURE": {
+        "default_rate": 20.0,
+        "default_rate_confidence": 0.0,
+        "avg_interest_rate": 15.0,
+        "interest_rate_confidence": 0.0,
+        "avg_loan_amount": 50000,
+        "loan_amount_confidence": 0.0
+      },
+      "HOMEIMPROVEMENT": {
+        "default_rate": 8.5,
+        "default_rate_confidence": 0.0,
+        "avg_interest_rate": 9.0,
+        "interest_rate_confidence": 0.0,
+        "avg_loan_amount": 25000,
+        "loan_amount_confidence": 0.0
+      },
+      "DEBTCONSOLIDATION": {
+        "default_rate": 12.0,
+        "default_rate_confidence": 0.0,
+        "avg_interest_rate": 11.0,
+        "interest_rate_confidence": 0.0,
+        "avg_loan_amount": 28248.863940122967,
+        "loan_amount_confidence": 1.0
+      },
+      "PERSONAL": {
+        "default_rate": 10.5,
+        "default_rate_confidence": 0.0,
+        "avg_interest_rate": 4.610000000000001,
+        "interest_rate_confidence": 1.0,
+        "avg_loan_amount": 12160.744579354123,
+        "loan_amount_confidence": 1.0
+      }
+    }
+  },
+  "ownership_data": {}
+}

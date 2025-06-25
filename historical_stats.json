@@ -1,0 +1,58 @@
+{
+  "EDUCATION": {
+    "default_rates": [],
+    "interest_rates": [
+      13.371444897959181,
+      16.27853864734299,
+      16.732424242424244
+    ],
+    "loan_amounts": [
+      9924.670280012771,
+      10203.543085512783,
+      12313.086285714286
+    ],
+    "timestamps": []
+  },
+  "MEDICAL": {
+    "default_rates": [],
+    "interest_rates": [],
+    "loan_amounts": [],
+    "timestamps": []
+  },
+  "VENTURE": {
+    "default_rates": [],
+    "interest_rates": [],
+    "loan_amounts": [],
+    "timestamps": []
+  },
+  "HOMEIMPROVEMENT": {
+    "default_rates": [],
+    "interest_rates": [],
+    "loan_amounts": [],
+    "timestamps": []
+  },
+  "DEBTCONSOLIDATION": {
+    "default_rates": [],
+    "interest_rates": [],
+    "loan_amounts": [
+      26829.457364341084,
+      28248.863940122967,
+      28248.863940122967
+    ],
+    "timestamps": []
+  },
+  "PERSONAL": {
+    "default_rates": [],
+    "interest_rates": [
+      4.610000000000001,
+      4.610000000000001,
+      4.610000000000001
+    ],
+    "loan_amounts": [
+      12160.744579354123,
+      12160.744579354123,
+      12160.744579354123
+    ],
+    "timestamps": []
+  }
+}

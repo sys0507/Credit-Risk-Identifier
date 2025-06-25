@@ -49,23 +49,19 @@ class CreditRiskFeatureEngineer:
         self.home_ownership_weights = {
             'RENT': {
                 'base_stability': 0.4,
-                'income_weight': 0.3,
-                'employment_weight': 0.3
+                'income_weight': 0.6
             },
             'MORTGAGE': {
                 'base_stability': 0.6,
-                'income_weight': 0.2,
-                'employment_weight': 0.2
+                'income_weight': 0.4
             },
             'OWN': {
                 'base_stability': 0.8,
-                'income_weight': 0.1,
-                'employment_weight': 0.1
+                'income_weight': 0.2
             },
             'OTHER': {
                 'base_stability': 0.3,
-                'income_weight': 0.35,
-                'employment_weight': 0.35
+                'income_weight': 0.7
             }
         }
 
@@ -95,14 +91,10 @@ class CreditRiskFeatureEngineer:
         # Normalize income (assuming max income of 200000)
         income_score = min(row['person_income'] / 200000, 1.0)
         
-        # Normalize employment length (assuming max length of 30 years)
-        emp_length_score = min(row['person_emp_length'] / 30, 1.0) if pd.notnull(row['person_emp_length']) else 0.5
-        
         # Calculate stability score
         stability_score = (
             weights['base_stability'] +
-            (income_score * weights['income_weight']) +
-            (emp_length_score * weights['employment_weight'])
+            (income_score * weights['income_weight'])
         )
         
         return min(1.0 - stability_score, 1.0)  # Convert stability to risk (higher stability = lower risk)
@@ -158,12 +150,12 @@ class CreditRiskFeatureEngineer:
             
             # Calculate combined risk score using weighted average
             df['combined_risk_score'] = (
-                df['loan_intent_risk_score'] * 0.25 +
-                df['home_ownership_risk_score'] * 0.20 +
+                df['loan_intent_risk_score'] * 0.30 +  # Increased weight
+                df['home_ownership_risk_score'] * 0.25 +  # Increased weight
                 df['credit_history_score'] * 0.20 +
                 df['loan_grade_risk_score'] * 0.15 +
-                df['age_risk_factor'] * 0.10 +
-                df['income_stability_score'] * 0.10
+                df['age_risk_factor'] * 0.05 +
+                df['income_stability_score'] * 0.05
             )
             
             # Normalize the combined risk score to 0-1 range

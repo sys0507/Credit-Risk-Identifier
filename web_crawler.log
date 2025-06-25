@@ -83,3 +83,200 @@ INFO:root:Collected home ownership data at 2025-06-22 14:56:46.280873
 2025-06-22 15:29:35,729 - INFO - Crawling https://www.lendingtree.com/home/mortgage/ for OWN
 2025-06-22 15:29:46,372 - INFO - Enhanced dataset saved to credit-risk-dataset/enhanced_credit_risk_dataset.csv
 2025-06-22 15:29:48,746 - INFO - Dataset enhancement completed successfully
+2025-06-23 20:22:02,246 - INFO - ====== WebDriver manager ======
+2025-06-23 20:22:02,958 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-23 20:22:03,032 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-23 20:22:03,085 - INFO - Driver [C:\Users\leemi\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver.exe] found in cache
+2025-06-23 20:22:04,153 - INFO - Crawling https://www.nerdwallet.com/best/loans/student-loans/private-student-loans for EDUCATION
+2025-06-23 20:22:15,588 - INFO - Crawling https://www.bankrate.com/loans/student-loans/rates/ for EDUCATION
+2025-06-23 20:22:28,250 - INFO - Crawling https://www.credible.com/blog/statistics/student-loan-debt-statistics/ for EDUCATION
+2025-06-23 20:22:38,672 - INFO - Crawling https://www.bankrate.com/loans/personal-loans/medical-loans/ for MEDICAL
+2025-06-23 20:22:51,384 - INFO - Crawling https://www.nerdwallet.com/best/loans/personal-loans/medical-loans for MEDICAL
+2025-06-23 20:23:02,307 - INFO - Crawling https://www.lendingtree.com/personal/medical-loans/ for MEDICAL
+2025-06-23 20:23:14,781 - INFO - Crawling https://www.bankrate.com/loans/business-loans/rates/ for VENTURE
+2025-06-23 20:23:25,529 - INFO - Crawling https://www.nerdwallet.com/best/small-business/small-business-loans for VENTURE
+2025-06-23 20:23:36,561 - INFO - Crawling https://www.fundera.com/business-loans/guides/business-loan-statistics for VENTURE
+2025-06-23 20:23:46,529 - INFO - Crawling https://www.bankrate.com/loans/home-improvement/rates/ for HOMEIMPROVEMENT
+2025-06-23 20:23:58,559 - INFO - Crawling https://www.nerdwallet.com/best/loans/personal-loans/home-improvement-loans for HOMEIMPROVEMENT
+2025-06-23 20:24:10,374 - INFO - Crawling https://www.lendingtree.com/home/renovation/home-improvement-loan-rates/ for HOMEIMPROVEMENT
+2025-06-23 20:24:22,244 - INFO - Crawling https://www.bankrate.com/loans/personal-loans/debt-consolidation-loans/ for DEBTCONSOLIDATION
+2025-06-23 20:24:33,919 - INFO - Crawling https://www.nerdwallet.com/best/loans/personal-loans/debt-consolidation-loans for DEBTCONSOLIDATION
+2025-06-23 20:24:44,407 - INFO - Crawling https://www.lendingtree.com/personal/debt-consolidation-loans/ for DEBTCONSOLIDATION
+2025-06-23 20:24:55,011 - INFO - Crawling https://www.bankrate.com/loans/personal-loans/rates/ for PERSONAL
+2025-06-23 20:25:06,211 - INFO - Crawling https://www.nerdwallet.com/best/loans/personal-loans for PERSONAL
+2025-06-23 20:25:16,105 - INFO - Crawling https://www.lendingtree.com/personal-loans/ for PERSONAL
+2025-06-23 20:25:26,505 - INFO - Crawling https://www.bankrate.com/real-estate/rent-vs-buy-calculator/ for RENT
+2025-06-23 20:25:41,180 - INFO - Crawling https://www.nerdwallet.com/mortgages/rent-vs-buy-calculator for RENT
+2025-06-23 20:25:51,497 - INFO - Crawling https://www.lendingtree.com/home/mortgage/rent-vs-buy/ for RENT
+2025-06-23 20:26:02,861 - INFO - Crawling https://www.bankrate.com/mortgages/mortgage-rates/ for MORTGAGE
+2025-06-23 20:26:19,606 - INFO - Crawling https://www.nerdwallet.com/mortgages/mortgage-rates for MORTGAGE
+2025-06-23 20:26:30,349 - INFO - Crawling https://www.lendingtree.com/home/mortgage/rates/ for MORTGAGE
+2025-06-23 20:26:40,721 - INFO - Crawling https://www.bankrate.com/real-estate/housing-market/ for OWN
+2025-06-23 20:26:52,596 - INFO - Crawling https://www.nerdwallet.com/mortgages/how-much-house-can-i-afford for OWN
+2025-06-23 20:27:04,724 - INFO - Crawling https://www.lendingtree.com/home/mortgage/ for OWN
+2025-06-23 20:27:15,728 - INFO - Enhanced dataset saved to credit-risk-dataset/enhanced_credit_risk_dataset.csv
+2025-06-23 20:27:18,065 - INFO - Dataset enhancement completed successfully
+2025-06-24 21:21:48,594 - INFO - ====== WebDriver manager ======
+2025-06-24 21:21:50,260 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-24 21:21:50,427 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-24 21:21:50,482 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-24 21:21:50,734 - INFO - WebDriver version 137.0.7151.119 selected
+2025-06-24 21:21:50,737 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/win32/chromedriver-win32.zip
+2025-06-24 21:21:50,737 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/win32/chromedriver-win32.zip
+2025-06-24 21:21:50,799 - INFO - Driver downloading response is 200
+2025-06-24 21:21:53,694 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-24 21:21:54,147 - INFO - Driver has been saved in cache [C:\Users\leemi\.wdm\drivers\chromedriver\win64\137.0.7151.119]
+2025-06-24 21:21:57,624 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:22:00,955 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:22:05,069 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:22:05,417 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:22:19,640 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:22:22,353 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:22:25,631 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:22:29,411 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:22:29,440 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:22:31,493 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:22:41,133 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:22:42,495 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:22:56,330 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:22:58,142 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:23:10,472 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:23:11,198 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:23:22,697 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:23:24,487 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:23:32,702 - INFO - Crawling https://www.bankrate.com/real-estate/rent-vs-buy-calculator/ for RENT
+2025-06-24 21:23:48,449 - INFO - Crawling https://www.nerdwallet.com/mortgages/rent-vs-buy-calculator for RENT
+2025-06-24 21:24:00,054 - INFO - Crawling https://www.lendingtree.com/home/mortgage/rent-vs-buy/ for RENT
+2025-06-24 21:24:11,958 - INFO - Crawling https://www.bankrate.com/mortgages/mortgage-rates/ for MORTGAGE
+2025-06-24 21:24:24,298 - INFO - Crawling https://www.nerdwallet.com/mortgages/mortgage-rates for MORTGAGE
+2025-06-24 21:24:36,207 - INFO - Crawling https://www.lendingtree.com/home/mortgage/rates/ for MORTGAGE
+2025-06-24 21:24:47,731 - INFO - Crawling https://www.bankrate.com/real-estate/housing-market/ for OWN
+2025-06-24 21:24:59,648 - INFO - Crawling https://www.nerdwallet.com/mortgages/how-much-house-can-i-afford for OWN
+2025-06-24 21:25:12,487 - INFO - Crawling https://www.lendingtree.com/home/mortgage/ for OWN
+2025-06-24 21:25:21,451 - INFO - Enhanced dataset saved to credit-risk-dataset/enhanced_credit_risk_dataset.csv
+2025-06-24 21:25:23,799 - INFO - Dataset enhancement completed successfully
+2025-06-24 21:43:02,356 - INFO - ====== WebDriver manager ======
+2025-06-24 21:43:03,092 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-24 21:43:03,227 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-24 21:43:03,270 - INFO - Driver [C:\Users\leemi\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-24 21:43:04,355 - INFO - No historical statistics found - will create new file
+2025-06-24 21:43:06,505 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:43:10,539 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:43:10,596 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:43:12,768 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:43:16,527 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:43:16,555 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:43:23,395 - INFO - Saved historical statistics
+2025-06-24 21:43:29,906 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:43:32,768 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:43:40,386 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:43:40,414 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:43:46,541 - INFO - Saved historical statistics
+2025-06-24 21:43:52,633 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:43:53,666 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:43:58,713 - INFO - Saved historical statistics
+2025-06-24 21:44:07,070 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:44:08,690 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:44:15,512 - INFO - Saved historical statistics
+2025-06-24 21:44:21,094 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:44:22,798 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:44:24,862 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:44:26,960 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:44:28,321 - INFO - Saved historical statistics
+2025-06-24 21:44:33,273 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:44:34,760 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-24 21:44:41,297 - INFO - Saved historical statistics
+2025-06-24 21:44:43,221 - INFO - Crawling https://www.bankrate.com/real-estate/rent-vs-buy-calculator/ for RENT
+2025-06-24 21:44:53,053 - INFO - Crawling https://www.nerdwallet.com/mortgages/rent-vs-buy-calculator for RENT
+2025-06-24 21:45:04,591 - INFO - Crawling https://www.lendingtree.com/home/mortgage/rent-vs-buy/ for RENT
+2025-06-24 21:45:15,866 - INFO - Crawling https://www.bankrate.com/mortgages/mortgage-rates/ for MORTGAGE
+2025-06-24 21:45:25,998 - INFO - Crawling https://www.nerdwallet.com/mortgages/mortgage-rates for MORTGAGE
+2025-06-24 21:45:35,047 - INFO - Crawling https://www.lendingtree.com/home/mortgage/rates/ for MORTGAGE
+2025-06-24 21:45:45,482 - INFO - Crawling https://www.bankrate.com/real-estate/housing-market/ for OWN
+2025-06-24 21:45:55,286 - INFO - Crawling https://www.nerdwallet.com/mortgages/how-much-house-can-i-afford for OWN
+2025-06-24 21:46:09,122 - INFO - Crawling https://www.lendingtree.com/home/mortgage/ for OWN
+2025-06-24 21:46:19,160 - INFO - Enhanced dataset saved to credit-risk-dataset/enhanced_credit_risk_dataset.csv
+2025-06-24 21:46:21,539 - INFO - Dataset enhancement completed successfully
+2025-06-25 19:38:59,555 - INFO - ====== WebDriver manager ======
+2025-06-25 19:39:00,354 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-25 19:39:00,518 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-25 19:39:00,587 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-25 19:39:00,808 - INFO - WebDriver version 137.0.7151.119 selected
+2025-06-25 19:39:00,810 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/win32/chromedriver-win32.zip
+2025-06-25 19:39:00,810 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/win32/chromedriver-win32.zip
+2025-06-25 19:39:00,872 - INFO - Driver downloading response is 200
+2025-06-25 19:39:03,729 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-25 19:39:04,176 - INFO - Driver has been saved in cache [C:\Users\leemi\.wdm\drivers\chromedriver\win64\137.0.7151.119]
+2025-06-25 19:39:05,415 - INFO - Loaded historical statistics
+2025-06-25 19:39:07,763 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:39:11,467 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:39:15,255 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:39:16,346 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:39:23,055 - INFO - Saved historical statistics
+2025-06-25 19:39:34,376 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:39:37,371 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:39:45,653 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:39:45,681 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:39:51,672 - INFO - Saved historical statistics
+2025-06-25 19:39:56,668 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:39:58,061 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:40:04,872 - INFO - Saved historical statistics
+2025-06-25 19:40:11,612 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:40:13,224 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:40:19,598 - INFO - Saved historical statistics
+2025-06-25 19:40:25,505 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:40:27,196 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:40:33,147 - INFO - Saved historical statistics
+2025-06-25 19:40:41,580 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:40:43,654 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:40:49,676 - INFO - Saved historical statistics
+2025-06-25 19:40:50,974 - INFO - Crawling https://www.bankrate.com/real-estate/rent-vs-buy-calculator/ for RENT
+2025-06-25 19:41:04,027 - INFO - Crawling https://www.nerdwallet.com/mortgages/rent-vs-buy-calculator for RENT
+2025-06-25 19:41:16,083 - INFO - Crawling https://www.lendingtree.com/home/mortgage/rent-vs-buy/ for RENT
+2025-06-25 19:41:26,491 - INFO - Crawling https://www.bankrate.com/mortgages/mortgage-rates/ for MORTGAGE
+2025-06-25 19:41:40,580 - INFO - Crawling https://www.nerdwallet.com/mortgages/mortgage-rates for MORTGAGE
+2025-06-25 19:41:51,224 - INFO - Crawling https://www.lendingtree.com/home/mortgage/rates/ for MORTGAGE
+2025-06-25 19:42:00,873 - INFO - Crawling https://www.bankrate.com/real-estate/housing-market/ for OWN
+2025-06-25 19:42:10,035 - INFO - Crawling https://www.nerdwallet.com/mortgages/how-much-house-can-i-afford for OWN
+2025-06-25 19:42:22,893 - INFO - Crawling https://www.lendingtree.com/home/mortgage/ for OWN
+2025-06-25 19:42:33,691 - INFO - Enhanced dataset saved to credit-risk-dataset/enhanced_credit_risk_dataset.csv
+2025-06-25 19:42:36,083 - INFO - Dataset enhancement completed successfully
+2025-06-25 19:42:37,788 - INFO - ====== WebDriver manager ======
+2025-06-25 19:42:38,705 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-25 19:42:38,779 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-25 19:42:38,827 - INFO - Driver [C:\Users\leemi\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-25 19:42:39,968 - INFO - Loaded historical statistics
+2025-06-25 19:42:43,598 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:42:44,997 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:42:50,690 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:42:52,808 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:42:59,810 - INFO - Saved historical statistics
+2025-06-25 19:43:05,151 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:43:07,785 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:43:15,407 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:43:15,476 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:43:17,530 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:43:21,415 - INFO - Saved historical statistics
+2025-06-25 19:43:25,697 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:43:27,589 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:43:33,151 - INFO - Saved historical statistics
+2025-06-25 19:43:36,999 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:43:38,826 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:43:44,832 - INFO - Saved historical statistics
+2025-06-25 19:43:47,714 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:43:49,656 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:43:54,917 - INFO - Saved historical statistics
+2025-06-25 19:43:58,433 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:44:00,099 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-06-25 19:44:06,289 - INFO - Saved historical statistics
+2025-06-25 19:44:07,703 - INFO - Crawling https://www.bankrate.com/real-estate/rent-vs-buy-calculator/ for RENT
+2025-06-25 19:44:16,743 - INFO - Crawling https://www.nerdwallet.com/mortgages/rent-vs-buy-calculator for RENT
+2025-06-25 19:44:27,623 - INFO - Crawling https://www.lendingtree.com/home/mortgage/rent-vs-buy/ for RENT
+2025-06-25 19:44:38,184 - INFO - Crawling https://www.bankrate.com/mortgages/mortgage-rates/ for MORTGAGE
+2025-06-25 19:44:46,601 - INFO - Crawling https://www.nerdwallet.com/mortgages/mortgage-rates for MORTGAGE
+2025-06-25 19:44:56,459 - INFO - Crawling https://www.lendingtree.com/home/mortgage/rates/ for MORTGAGE
+2025-06-25 19:45:07,998 - INFO - Crawling https://www.bankrate.com/real-estate/housing-market/ for OWN
+2025-06-25 19:45:16,872 - INFO - Crawling https://www.nerdwallet.com/mortgages/how-much-house-can-i-afford for OWN
+2025-06-25 19:45:28,979 - INFO - Crawling https://www.lendingtree.com/home/mortgage/ for OWN
+2025-06-25 19:45:39,540 - INFO - Enhanced dataset saved to credit-risk-dataset/enhanced_credit_risk_dataset.csv
+2025-06-25 19:45:41,858 - INFO - Dataset enhancement completed successfully
